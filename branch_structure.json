@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-437-add-financials-to-the-compare-view",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-437-add-financials-to-the-compare-view": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-437-add-financials-to-the-compare-view",
+    "origin"
+  ]
+}
